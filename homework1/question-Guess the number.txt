@@ -1,0 +1,43 @@
+Write a program that guesses an integer number the user thought of. 
+The number user can think of should be an integer number 1-100.
+After the number is successfully guessed, offer the user to play again
+Sample output of the program is below. 
+Material covered today in the class should be sufficient to complete this homework. 
+
+
+Sample Output1:
+Hi, what is your Name? Zain
+Hello Zain! Let's play a game!
+Think of random number from 1 to 100, and I'll try to guess it!
+Is it 50? (yes/no)no
+Is the number larger than 50? (yes/no)yes
+Is it 75? (yes/no)no
+Is the number larger than 75? (yes/no)yes
+Is it 88? (yes/no)no
+Is the number larger than 88? (yes/no)yes
+Is it 94? (yes/no)no
+Is the number larger than 94? (yes/no)yes
+Is it 97? (yes/no)no
+Is the number larger than 97? (yes/no)yes
+Is it 99? (yes/no)no
+Is the number larger than 99? (yes/no)yes
+Is it 100? (yes/no)yes
+Yeey! I got it in 7 tries!
+Do you want to play more? yes
+Is it 50? (yes/no)no
+Is the number larger than 50? (yes/no)yes
+Is it 75? (yes/no)no
+Is the number larger than 75? (yes/no)yes
+Is it 88? (yes/no)no
+Is the number larger than 88? (yes/no)no
+Is it 81? (yes/no)no
+Is the number larger than 81? (yes/no)yes
+Is it 84? (yes/no)no
+Is the number larger than 84? (yes/no)yes
+Is it 86? (yes/no)no
+Is the number larger than 86? (yes/no)yes
+Is it 87? (yes/no)yes
+Yeey! I got it in 7 tries!
+Do you want to play more?
+Do you want to play more? no
+Bye-bye
