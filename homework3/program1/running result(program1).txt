@@ -1,0 +1,4 @@
+bunnyEars2(0) -> 0
+bunnyEars2(1) -> 2
+bunnyEars2(2) -> 5
+bunnyEars2(3) -> 7

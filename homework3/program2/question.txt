@@ -1,0 +1,5 @@
+Write a function count_frequency that takes a list of words as an argument, counts how many times each word appears in the list, and then returns this frequency listing as a Python dictionary
+Sample function call and output:
+
+mylist=["one", "two","eleven",  "one", "three", "two", "eleven", "three", "seven", "eleven"]
+print(count_frequency(mylist))
