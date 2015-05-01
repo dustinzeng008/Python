@@ -124,12 +124,15 @@ while(searchMore=="yes"):
 
     # search keyword
     dt1 = datetime.now()
-    for n in range(len(splitData)):
-        if splitData[n] in data_dict.keys():
-            if (andOrOperation==0):
+
+    if (andOrOperation==0):
+        for n in range(len(splitData)):
+            if splitData[n] in data_dict.keys():
                 outputSet=list(set(outputSet).union(set(data_dict[splitData[n]])))
-            else:
-                outputSet=data_dict[splitData[0]]
+    else:
+        outputSet=data_dict[splitData[0]]
+        for n in range(len(splitData)):
+            if splitData[n] in data_dict.keys():               
                 outputSet=list(set(outputSet).intersection(set(data_dict[splitData[n]])))
     dt2= datetime.now()
     
