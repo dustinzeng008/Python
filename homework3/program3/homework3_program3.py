@@ -125,11 +125,11 @@ while(searchMore=="yes"):
     # search keyword
     dt1 = datetime.now()
 
-    if (andOrOperation==0):
+    if (andOrOperation==0):         #if it is (or operation)
         for n in range(len(splitData)):
             if splitData[n] in data_dict.keys():
                 outputSet=list(set(outputSet).union(set(data_dict[splitData[n]])))
-    else:
+    else:                           #if it is (and operation)
         outputSet=data_dict[splitData[0]]
         for n in range(len(splitData)):
             if splitData[n] in data_dict.keys():               
