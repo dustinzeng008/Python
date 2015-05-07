@@ -1,0 +1,32 @@
+>>> 
+Hi, What's your name? yong
+Hello, yong! Welcome to the search engine!
+Please enter multiple keywords and boolean operators!
+query:down
+Performing AND search for: {'down'}
+
+Found at /Users/Dustin/code/pythoncourse/hw4/fortune1/fortune2/fortune3/fortune4/fortune5/fortune6/fortune7/fortune8/fortune9/fortune10/fortune11/fortune12/fortune13/fortune13.log | last modified time is: 2014-09-22 21:25:30 | Size: 894 bytes
+
+Execution time: 21
+
+Do you want to search more (yes or no)? yes
+query:looking
+Performing AND search for: {'looking'}
+
+Found at /Users/Dustin/code/pythoncourse/hw4/fortune1/fortune2/fortune3/fortune4/fortune5/fortune6/fortune7/fortune8/fortune9/fortune10/fortune11/fortune12/fortune13/fortune14/fortune15/fortune16/fortune17/fortune17.log | last modified time is: 2014-09-22 21:25:32 | Size: 328 bytes
+
+Found at /Users/Dustin/code/pythoncourse/hw4/fortune1/fortune2/fortune3/fortune4/fortune5/fortune5.txt | last modified time is: 2014-09-22 21:25:26 | Size: 192 bytes
+
+Execution time: 23
+
+Do you want to search more (yes or no)? yes
+query:August and gataway
+Performing AND search for: {'August', 'gataway'}
+
+Found at /Users/Dustin/code/pythoncourse/hw4/fortune1/fortune2/fortune3/fortune4/fortune5/fortune6/fortune7/fortune8/fortune9/fortune10/fortune11/fortune11.txt | last modified time is: 2014-09-22 21:25:29 | Size: 748 bytes
+
+Execution time: 22
+
+Do you want to search more (yes or no)? no
+Bye-bye
+>>>
