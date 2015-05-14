@@ -1,0 +1,5 @@
+Task4: <Real Time Search> invoke the weather forecast against the weather API based on the user search criteria (assume exact search) http://api.openweathermap.org/data/2.5/weather?q=<address>
+
+if the API returned the actual weather, not an error (try http://api.openweathermap.org/data/2.5/weather?q=djckljsdlkcjlsd)
+
+then display the weather forecast in human readable format, and the remaining search results later. 

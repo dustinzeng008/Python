@@ -1,0 +1,32 @@
+Hi, What's your name? yong
+Hello, yong! Welcome to the search engine!
+Please enter address to get the weather forcast!
+query: west haven
+гнгнгнгнгнгнгнгнгнгнгнгнwest havenгнгнгнгнгнгнгнгнгнгнгнгн
+get at: 2015.05.14 12:09 
+Current Tempeture: 17.0 Celsius
+Calm 1.46 m/s North-northwest (328.505)
+Cloudiness: Sky is Clear
+Pressure: 1027.83 hpa
+Humidity: 41%
+Sunrise: 05:33
+Sunset: 20:02
+Geo coords [ -72.95, 41.27 ]
+гнгнгнгнгнгнгнгнгнгнгнгнгнгнгнгнгнгн-гнгнгнгнгнгнгнгнгнгнгн
+
+Do you want to search more (yes or no)? yes
+query: new haven
+гнгнгнгнгнгнгнгнгнгнгнгнnew havenгнгнгнгнгнгнгнгнгнгнгнгн
+get at: 2015.05.14 12:40 
+Current Tempeture: 19.2 Celsius
+Calm 1.49 m/s North-northwest (304.002)
+Cloudiness: Sky is Clear
+Pressure: 1026.07 hpa
+Humidity: 36%
+Sunrise: 05:33
+Sunset: 20:02
+Geo coords [ -72.93, 41.31 ]
+гнгнгнгнгнгнгнгнгнгнгнгнгнгнгнгнгнгн-гнгнгнгнгнгнгнгнгнгнгн
+
+Do you want to search more (yes or no)? no
+Bye-bye

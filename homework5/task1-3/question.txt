@@ -1,0 +1,9 @@
+As you would notice, the metadata keywords do not change from page to page
+
+Use crawler code here: https://github.com/gnurmatova/Python/blob/master/lecture5/unh_crawler.py
+
+Task1: Analyze the page content and see if you can find a better content on the pages that can be used for search
+
+Task2: Use the existing indexer and searcher to index and search the web content produced by the crawler
+
+Task3: When user enters a search query, search both the web and file content

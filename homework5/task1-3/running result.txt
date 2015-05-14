@@ -1,0 +1,34 @@
+Hi, What's your name? yong
+Hello, yong! Welcome to the search engine!
+Please enter multiple keywords and boolean operators!
+query:Academics
+Performing AND search for: {'Academics'}
+
+Found at http://www.newhaven.edu/292038/ | published or modified time is: May 2, 2012
+
+Found at http://www.newhaven.edu/academics/ | published or modified time is: April 14, 2015
+
+Found at http://www.newhaven.edu/292038 | published or modified time is: May 2, 2012
+
+Execution time: 34
+
+Do you want to search more (yes or no)? yes
+query:down
+Performing AND search for: {'down'}
+
+Found at /Users/Dustin/code/pythoncourse/hw5/task1-3/fortune1/fortune2/fortune3/fortune4/fortune5/fortune6/fortune7/fortune8/fortune9/fortune10/fortune11/fortune12/fortune13/fortune13.log | published or modified time is: 2014-09-22 21:25:30
+
+Execution time: 18
+
+Do you want to search more (yes or no)? yes
+query:Students
+Performing AND search for: {'Students'}
+
+Found at http://www.newhaven.edu/prospective/ | published or modified time is: August 7, 2014
+
+Found at http://www.newhaven.edu/15/ | published or modified time is: November 5, 2014
+
+Execution time: 30
+
+Do you want to search more (yes or no)? no
+Bye-bye
