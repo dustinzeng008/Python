@@ -1,0 +1,27 @@
+This is a learning game for kids to lear Integer Divisions. The user will be given a problem and should answer it. Provide a "Correct" or  "Incorrect" feedback, handle bad input using Exceptions. 
+
+Following code will give you random integer 0-5:
+
+from random import randrange
+a = randrange(5)
+ 
+
+Sample Output:
+
+INTEGER DIVISIONS
+6/3=2
+CORRECT!
+12/4=3
+CORRECT!
+4/2=4
+INCORRECT!
+0/1=e
+Please enter Integers Only!
+0/0=4
+INCORRECT!
+1/1=1
+CORRECT!
+0/2=0
+CORRECT!
+4/1=r
+Please enter Integers Only!

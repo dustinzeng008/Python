@@ -1,0 +1,52 @@
+Program1:
+You are building a game for kids. The game will give 3 fun fact hints and the user has to guess what animal it is. 
+Your main program must look like the code I will paste below. Animal must be a class. 
+
+e = Animal("elephant")
+t = Animal("tiger")
+b = Animal("bat")
+
+e.guess_who_am_i()
+t.guess_who_am_i()
+b.guess_who_am_i()
+
+
+Sample Output
+
+I will give you 3 hints, guess what animal I am
+
+I have exceptional memory
+Who am I?:dolphin
+Nope, try again!
+
+I am the largest land-living mammal in the world
+Who am I?:elephant
+You got it! I am  elephant
+
+
+I will give you 3 hints, guess what animal I am
+
+I am the biggest cat
+Who am I?:lion 
+Nope, try again!
+
+I come in black and white or orange and black
+Who am I?:tiger
+You got it! I am  tiger
+
+
+I will give you 3 hints, guess what animal I am
+
+I use echo-location
+Who am I?:human
+Nope, try again!
+
+I can fly
+Who am I?:butterfly
+Nope, try again!
+
+I see well in dark
+Who am I?:cat
+Nope, try again!
+
+I'm out of hints! The answer is: bat
